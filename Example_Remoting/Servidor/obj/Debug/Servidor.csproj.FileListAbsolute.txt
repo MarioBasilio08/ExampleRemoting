@@ -1,0 +1,8 @@
+D:\Trabajo\Ejercicios\Example_Remoting\Servidor\bin\Debug\Servidor.exe.config
+D:\Trabajo\Ejercicios\Example_Remoting\Servidor\bin\Debug\Servidor.exe
+D:\Trabajo\Ejercicios\Example_Remoting\Servidor\bin\Debug\Servidor.pdb
+D:\Trabajo\Ejercicios\Example_Remoting\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+D:\Trabajo\Ejercicios\Example_Remoting\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+D:\Trabajo\Ejercicios\Example_Remoting\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+D:\Trabajo\Ejercicios\Example_Remoting\Servidor\obj\Debug\Servidor.exe
+D:\Trabajo\Ejercicios\Example_Remoting\Servidor\obj\Debug\Servidor.pdb

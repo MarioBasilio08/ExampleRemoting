@@ -1,0 +1,12 @@
+D:\Trabajo\Ejercicios\Example_Remoting\Cliente\bin\Debug\Cliente.exe.config
+D:\Trabajo\Ejercicios\Example_Remoting\Cliente\bin\Debug\Cliente.exe
+D:\Trabajo\Ejercicios\Example_Remoting\Cliente\bin\Debug\Cliente.pdb
+D:\Trabajo\Ejercicios\Example_Remoting\Cliente\bin\Debug\Servidor.exe
+D:\Trabajo\Ejercicios\Example_Remoting\Cliente\bin\Debug\Servidor.pdb
+D:\Trabajo\Ejercicios\Example_Remoting\Cliente\bin\Debug\Servidor.exe.config
+D:\Trabajo\Ejercicios\Example_Remoting\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+D:\Trabajo\Ejercicios\Example_Remoting\Cliente\obj\Debug\Cliente.csproj.SuggestedBindingRedirects.cache
+D:\Trabajo\Ejercicios\Example_Remoting\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+D:\Trabajo\Ejercicios\Example_Remoting\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+D:\Trabajo\Ejercicios\Example_Remoting\Cliente\obj\Debug\Cliente.exe
+D:\Trabajo\Ejercicios\Example_Remoting\Cliente\obj\Debug\Cliente.pdb
